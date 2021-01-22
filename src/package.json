@@ -1,0 +1,33 @@
+{
+  "name": "Plays",
+  "version": "1.0.0",
+  "author": "Cristian Smocot",
+  "keywords": [
+    "learn",
+    "nodejs",
+    "tutorial nodejs"
+  ],
+  "licenses": {
+    "type": "none"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "concat-stream": "^1.4.8",
+    "fs-extra": "^0.24.0",
+    "gulp": "^3.9.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.2",
+    "gulp-using": "0.0.1",
+    "hashmap": "^2.0.3",
+    "himalaya": "^0.2.0",
+    "intel": "^1.0.0",
+    "mocha": "^2.3.2",
+    "q": "^1.4.1",
+    "ssh-exec": "^1.3.0",
+    "strftime": "^0.9.0",
+    "through2-map": "^1.4.0",
+    "webdriverio": "^3.2.4"
+  }
+}
